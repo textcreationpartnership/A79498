@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Highness the Lord Protector, &amp;c. and to the Parliament of England. Valiant swordmen, and honorable gentlemen, ...</title>
+            <author>Chidley, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79498</idno>
+            <idno type="STC">Wing C3844</idno>
+            <idno type="STC">Thomason E896_9</idno>
+            <idno type="STC">ESTC R206683</idno>
+            <idno type="EEBO-CITATION">99865798</idno>
+            <idno type="PROQUEST">99865798</idno>
+            <idno type="VID">168428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168428)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 135:E896[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Highness the Lord Protector, &amp;c. and to the Parliament of England. Valiant swordmen, and honorable gentlemen, ...</title>
+                  <author>Chidley, Samuel.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An invective against cathedral churchs, church-steeples, bells, etc., anonymously written by Samuel Chidley.</note>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>With engraved frontispiece depicting the destruction of Withcomb Church in Devon by a thunderstorn during the service time, 21 Oct.</note>
+                  <note>Annotation on Thomason copy: "10 Decemb. 1656".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church decoration and ornament --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:168428:1" rendition="simple:additions"/>
+            <pb facs="tcp:168428:2"/>
+            <lg>
+               <l>
+                  <hi>PRotectors, Parliaments, and all, ſee, hear,</hi>
+               </l>
+               <l>
+                  <hi>And quake for fear: O do not jeer, nor ſwear</hi>
+               </l>
+               <l>
+                  <hi>'Gainſt God, who roars from Sion on your ſin,</hi>
+               </l>
+               <l>
+                  <hi>'Gainſt ſuch High-places which you worſhip in.</hi>
+               </l>
+               <l>
+                  <hi>Jah with his burning blasts of lightnings quells</hi>
+               </l>
+               <l>
+                  <hi>The Peoples Idols-Temples-Steeples-Bells.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure>
+                  <head>
+                     <hi>A moſt prodigious &amp; fearefull ſtorme of winde lightning &amp; thunder, mightily defaceing With comb-ch<g ref="char:EOLhyphen"/>urch in Deuon. burneing and ſlayeing diverſe men and women all this in ſervice-time, on the Lords day Octob: 21 <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>.</hi>
+                  </head>
+                  <figDesc>woodcut</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168428:2"/>
+            <head>TO His Highneſs the Lord Protector, <hi>&amp;c.</hi> AND To the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Valiant Swordmen, and Honorable Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">N</seg>Aaman the Syrian was a man high and honou<g ref="char:EOLhyphen"/>rable, becauſe by him the Lord had given de<g ref="char:EOLhyphen"/>liverance to Syri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: he was alſo a mighty man in valour; but he was a leper. And he was wroth againſt the Prophet of the Lord without a cauſe, and ſo went away in a rage. But his ſervants came neer, and ſpake unto him and ſaid, My father, if the Prophet had bid thee do ſome great thing, wouldest thou not have done it? how much more rather then, when he ſaith to thee, Waſh and be clean? Then went he down, and dipped himſelf ſeven times in Iordan accord<g ref="char:EOLhyphen"/>ing to the ſaying of the man of <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: and his fleſh name a<g ref="char:EOLhyphen"/>gain like unto the fleſh of a little childe; and he was clean. And being thus cleanſed of his leproſie he promiſed thence<g ref="char:EOLhyphen"/>forth not to offer unto other gods, but unto Jehovah.</hi> Yea, he knew it was a ſin to go into the houſe of <hi>R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmon</hi> to wait upon his Maſter the King (to be his leaning-ſtock in that Idols temple) when he worſhipped there. 2 <hi>Kings</hi> 5.10, 11, 12, 13, 15, 17, 18.</p>
+            <pb facs="tcp:168428:3"/>
+            <p>Sirs, I preſented you formerly with a Book intituled <hi>Thun<g ref="char:EOLhyphen"/>der from the throne of God (againſt the temples of Idols)</hi> which the fooliſh people count a work of madneſs, but indeed were ſolid words of truth and ſoberneſs: yet ſuch thundering and convincing Arguments were not acceptable nor delectable unto you; being for the quite plucking down of the Idolatrous High-places, which are ſtill kept up, under pretence of uſefulneſs and convenience for Worſhip. But humane pretences without divine precepts, are like an empty Parliament-houſe without members, or a Parliament without power: even ſo is a bare name of godlineſs, famous with men, but infamous with God, like that fear towards him which is taught by the precepts of men.</p>
+            <p>Tell me, ye great men, did not <hi>Conſtantine the great</hi> give the Heathens Idol-temples for Chriſtians to worſhip in? and was it not a ſnare to him and them, like the Croſs in his Banners? And what followed at the laſt? was not <hi>Conſtantinople</hi> loſt, and the head of <hi>Conſtantine</hi> held upon the top of a ſpear? And how can ſuch your frequent appearances of evil avail you in your Spaniſh Wars, O ye mortal gods, who muſt die like men, and fall like one of the Princes? <hi>Pſal.</hi> 28.7.</p>
+            <p>Is it not remarkable, that the Jews for the ſpace of theſe 1600 years were not ſo totally blinded, as to hold ſuch a correſpon<g ref="char:EOLhyphen"/>dencie with Gods enemies the Papiſts, as to uphold their Idols or Idols Temples: but do pray heartily for their utter deſtruction: And the Law of God [for the quite plucking down of all the Idols Temples] is not repealed by Chriſt. And although the Jews (whom the fooliſh people would convert as the Spaniards the Indians) are not permitted here by the Law of this Land; yet I would not that ye ſhould be ignorant of this myſtery (leſt ye ſhould be wiſe in your own conceits) that blindneſs in part (I ſay not wholly but in part) <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>pened to <hi>Iſrael,</hi> until the fulneſs of the Gentiles be come in; and ſo all <hi>Iſrael</hi> ſhall be ſaved, <hi>Rom.</hi> 11.25, 26. But concerning the Idolatrous Gentiles, who profeſs Chriſt, but deny him in their works, there is no ſuch pro<g ref="char:EOLhyphen"/>miſe; but contrariwiſe, it is propheſied concerning them, That (after the deſtruction of the third part of men, by the fire, and ſmoke, and ſulphur) the reſt of the men which were not killed
+<pb facs="tcp:168428:3"/>by theſe plagues, yet repented not of the works of their hands, that they ſhould not worſhip devils, and idols of gold, and ſil<g ref="char:EOLhyphen"/>ver, and braſs, and ſtone, and wood, which neither can ſee, hear, nor walk; neither repented they of their murders, nor of their ſorceries, nor of their fornications, nor of their Thefts. <hi>Rev.</hi> 9.18.20, 21.</p>
+            <p>The Jews at <hi>mount Sinai</hi> had Ten Commands given unto them from God <hi>Exod.</hi> 20. <hi>Deut.</hi> 5. the Gentiles in <hi>mount Sion</hi> had Four given unto them in charge, <hi>Act.</hi> 15 20. for ſo it ſeem<g ref="char:EOLhyphen"/>ed good unto the holy Ghoſt, and the holy ſeparated Church, to lay upon the Chriſtian Gentiles no other burden then thoſe four neceſſary things, verſ. 28. amongſt which, <hi>to keep themſelves from things offered to idols</hi> was one principal, <hi>Acts</hi> 21.25. But the Idols Temples, with the Steeples and Bells, are ſo (as may appear unto you by this enſuing Treatiſe) and therefore they muſt be demoliſhed, that the names of the Idols may be utterly de<g ref="char:EOLhyphen"/>ſtroyed out of the Land.</p>
+            <p>O ye Senators of <hi>England,</hi> you are raiſing money now to maintain Wars againſt the Spaniards; and to Wars you will go: Go, and proſper: But be well adviſed, and take direction out of <hi>the book of the wars of the Lord:</hi> for there it is writ<g ref="char:EOLhyphen"/>ten, <hi>When the Camp goeth forth againſt thine enemies, then keep thee from every evil thing,</hi> Deut. 23.9. Idols Temples, the Steeples and Bells, are evil things, and ought to be thrown down. So long therefore as you will uphold them, how can ye expect the victory? for they are great ſtumbling-blocks to the Jews, and hinder them from embracing Chriſtianity; and do en<g ref="char:EOLhyphen"/>courage the Gentiles in their idolatry, and do give offence to the Church of God: yet you will uphold theſe Steeple-houſes, under pretence of uſefulneſs, and convenience for Worſhip.</p>
+            <p>But what have you to ſay to the Steeples themſelves? doubt<g ref="char:EOLhyphen"/>leſs you cannot but confeſs they are very uſeleſs and unprofitable: yea, they are idolatrous, and ought to be utterly deſtroyed.</p>
+            <p>Our firſt Parliament, after ſeven years ſervice and experience, driving a great trade in that Ware-houſe of Juſtice which you keep, began to be ſuch perfect Crafts-men, that they had no fur<g ref="char:EOLhyphen"/>ther need of their Maſters cunning: whereupon they were ſo witty, as in the very nick of time to cut off his Royal head, to
+<pb facs="tcp:168428:4"/>ſtrengthen themſelvs in the Regal power, and aboliſhed the King<g ref="char:EOLhyphen"/>ly Office as uſeleſs and unprofitable: How much more ought theſe Steeples to be demoliſhed, for the uſeleſneſs and unprofi<g ref="char:EOLhyphen"/>tableneſs thereof? And therefore you ought to root them out leſt the great God of heaven root you out, as he did your predeceſ<g ref="char:EOLhyphen"/>ſors.</p>
+            <p>They took away the Croſſes from the tops of the Steeples as idolatrous; but gave no order to demoliſh the Steeples: for their judgments were not informed, &amp; they ſaw not that the Stee<g ref="char:EOLhyphen"/>ples were idolatrous, as the Croſſes thereupon. But it is no new thing for better &amp; wiſer then they to be miſtaken, like the Scribes and Phariſees, who held a tradition, that <hi>Whoſoever ſweareth by the Temple, it is nothing: but whoſoever ſweareth by the gold of the Temple, he is a debtor.</hi> But Chriſt ſaith, <hi>(Wo unto you ye blinde guides) Ye fools and blinde: for whether is greater, the gold, or the temple that ſanctifieth the gold?</hi> Matth. 23.16, 17. So it may be ſaid contrariwiſe of theſe; Whether is greater, the Croſſes, or the Steeples the pillars and foundations thereof? Therefore when they pulled down the Croſſes from off the Steeples they ſhould have pulled down the Steeples alſo, the Steeples being as idolatrous and uſeleſs as the other. Therefore down with theſe old Chyming chimneys of the drunken whore of <hi>Babylon,</hi> that ſo the fire and ſmoke of abomination which maketh deſolation may be utterly extin<g ref="char:EOLhyphen"/>guiſhed, with the names of the idols out of thoſe places.</p>
+            <p>It is written in the Law, <hi>Ye ſhall utterly deſtroy all the pla<g ref="char:EOLhyphen"/>ces wherein the nations ſerved their gods,</hi> Deut. 12.2. <hi>and you ſhall break down their idolatrous pillars,</hi> Deut. 7.5. &amp; 12.3. And what are theſe Steeples? are they not the Popes pillars? for they were erected by the Catholick Papiſts, in honour to their Popiſh gods?</p>
+            <p>Therefore although theſe towers of <hi>Babel</hi> are builded to reach up to heaven
+<note n="*" place="margin">
+                  <hi>As Sin</hi> Botolphs <hi>Steeple at</hi> Boſton <hi>in Lincolnſh: upon which a thunder<g ref="char:EOLhyphen"/>bolt came a year ſince.</hi>
+               </note>, and ſome of them have as many ſteps in height as there are days in the year; down with them and their <hi>Baby<g ref="char:EOLhyphen"/>loniſh Bells</hi> to the very ground, and let not a ſtone of them re<g ref="char:EOLhyphen"/>main upon another.</p>
+            <p>And in ſo doing, ye ſhall do well.</p>
+            <p>
+               <hi>Fare ye well.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:168428:4"/>
+            <head>Postſcript.</head>
+            <p>BEing informed that the Parliament is about to eſtabliſh the Cathedral of <hi>Glouceſter</hi> to be uſed conſtantly as a place of publick Worſhip; and knowing that God will have ſuch places utterly rooted out: In diſcharge of my conſcience, I have here publiſhed this following Letter, which hath layn by me divers years. Dated from <hi>Glouceſter,</hi> the 24 day of the 11 Month, 1652. and directed to me,</p>
+            <div type="letter">
+               <opener>
+                  <salute>
+                     <hi>Loving friend Mr.</hi> Chidley,</salute>
+               </opener>
+               <p>HAving received ſo many favours from your ſelf, I am thereby engaged to acknowledge your love to me, and to return you hearty thanks for all your kindneſs. Through the goodneſs of God, I am more ſatisfied in the juſtneſs of your publike buſineſs, then when I was at <hi>London;</hi> though then I thought it my duty to endeavour the utter extirpation of ſuperſtition, and quite plucking down (not onely of the a<g ref="char:EOLhyphen"/>bominable High-places, but alſo) of all the Idols Temples in general, as being no fit temples for the holy Ghoſt to be wor<g ref="char:EOLhyphen"/>ſhipped in. The honour of God is the chief moving cauſe (if my heart deceive me not:) The next motive is from what I have ſeen and heard ſince I came to this ancient (I may ſay) deluded City of <hi>Glouceſter,</hi> where the people for the ma<g ref="char:EOLhyphen"/>jor part are ſo deluded by the Antichriſtian Priests, that they are even wedded to the grand Idol of that place, called the Colledge (or Collegiate Church) ſo as they have ſome purpoſes to ſell two or three of the Idols Temples, that thereby they might be better able to uphold that place, wherein doth ſtill remain moſt abominable provocations to ſuperſtitious Wor<g ref="char:EOLhyphen"/>ſhip. the Prieſt himſelf affirming a plain lye to the people the laſt firſt day in the open Auditory. And the chief end (for ought I hear) of their preaching in that place, is onely to keep it from being accounted an uſeleſs Collegiate place: for they have eight or nine Steeple-houſes, and but four Prieſts in the Town. And for my own ſatisfaction, and that I might write unto you ſomething that my eyes have ſeen, I took an
+<pb facs="tcp:168428:5"/>oportunity to go to ſee the place. But for me to ſet out the a<g ref="char:EOLhyphen"/>bominations that have been, and ſome of which ſtill-remain, would be too tedious to recite. But the full concluſion of what I have to ſay of it, is onely this: It is a pillar upon which Popery hath been eſtabliſhed, There are about it ſeveral Cloyſters. Within the Quire, at the Eaſt-end is the Altar: the ſteps to the Altar-place, and the Tables of the Command<g ref="char:EOLhyphen"/>ments ſtill remain. Behinde this, is a place called Purgato<g ref="char:EOLhyphen"/>ry ſtill ſtanding with three open holes at the top thereof; the place being ſomewhat dark. In a Gallery over the high Al<g ref="char:EOLhyphen"/>tar, and over Purgatory, is a place which is called the <hi>Whiſ<g ref="char:EOLhyphen"/>pering-place;</hi> and behinde it, is a place prepared for the Ab<g ref="char:EOLhyphen"/>bots <hi>&amp;c.</hi> to ſit, where they could hear the people what they whiſpered by reaſon of the hollowneſs of the whiſpering place; and when the people came before them, they could tell the peo<g ref="char:EOLhyphen"/>ple what they had ſaid: and ſo the people took them for Gods, by reaſon of this piece of knavery. Over the High-altar are two holes in the top of the Leads, over which are two round boards to cover the holes, and two ſtrings, with which they could let down a Pigeon or two; and there they perſwa<g ref="char:EOLhyphen"/>ded the people that the holy Ghoſt aſcended and deſcended up<g ref="char:EOLhyphen"/>on their Sacrifices through thoſe holes: one of the ſtrings are ſtill on the top of the leads. <g ref="char:V">Ʋ</g>nder the Quire is a place called <hi>The Bone-houſe,</hi> where at this day are heaps of dead mens ſculls, and dead bones, piled up like piles of faggots, and lock'd up within that place: the Sexton keeps the key, There are ſeveral Chappels: in one whereof lies (the laſt Abbot that was) Abbot <hi>Parker,</hi> with a Lion at his feet, an Angel under his head, and a Mitre upon his head: his picture is not at all defaced. Much more might be written, but time will not give me leave at preſent. The Lord in his due time will root out all ſuch abominations, and raze to the ground thoſe idolatrous High-places.</p>
+               <p>Thus with my reſpects to your ſelf, and all other friends in general, I at preſent take leave, and ſubſcribe my ſelf</p>
+               <closer>
+                  <signed>
+                     <hi>Your friend,</hi> &amp;c.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
